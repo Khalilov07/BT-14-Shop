@@ -1,0 +1,118 @@
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.sofa__section {
+    background: #FBEBB5;
+}
+
+.sofa__wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.sofa__left {
+    width: 45%;
+}
+
+.sofa__left h1 {
+    font-size: 64px;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.sofa__left a {
+    color: black;
+    font-size: 24px;
+    padding-top: 35px;
+    font-weight: 500;
+    line-height: normal;
+    padding-bottom: 13px;
+    text-decoration: none;
+    border-bottom: 2px solid black;
+}
+
+.sofa__right {
+    width: 48%;
+}
+
+.sofa__right img {
+    width: 100%;
+}
+
+/* / */
+.media__wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.box img {
+    width: 500px;
+    height: 464px;
+}
+
+.box h1 {
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.box a {
+    color: #000;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    border-bottom: 2px solid black;
+    padding-bottom: 15px;
+    text-decoration: none;
+}
+
+.media__section {
+    padding-bottom: 30px;
+}
+
+.furniture__top {
+    text-align: center;
+    padding-top: 180px;
+}
+
+.furniture__top h1 {
+    font-size: 36px;
+    font-weight: 500;
+}
+
+.furniture__top h2 {
+    color: #9F9F9F;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.furniture__bottom {
+    display: flex;
+    gap: 70px;
+    padding-top: 100px;
+}
+
+.furniture__bottom img {
+    height: 170px;
+}
+
+.furniture__bottom h3 {
+    color: #000;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.furniture__bottom h2 {
+    color: #000;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: normal;
+}
